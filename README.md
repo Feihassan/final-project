@@ -1,76 +1,69 @@
-🎨 Art Explorer App
-The Art Explorer App is a simple web application that allows users to browse, search, and view famous artworks from the Art Institute of Chicago collection. Built with HTML, external CSS, and beginner-friendly JavaScript.
+# 🎨 Art Explorer App
 
-🚀 Features
-Browse beautiful artwork from a public API
+The **Art Explorer App** is a beginner-friendly web application that allows users to browse, search, and view famous artworks from the Art Institute of Chicago's public collection. Built using HTML, external CSS, and vanilla JavaScript, this app emphasizes clean design and simple functionality.
 
-Search for artworks by keyword (e.g. “sunflowers”, “van gogh”)
+---
 
-Responsive card layout with titles and artist names
+## 🚀 Features
 
-Clean, minimal design using external CSS
+-  **Search Artworks** by keyword (e.g. _“sunflowers”_, _“van Gogh”_, _“Impressionism”_)
+-  **Browse Beautiful Artworks** from a free public API
+-  **Responsive Card Layout** with artwork title and artist name
+-  **Minimal Design** using clean external CSS
+-  **Mobile-Friendly** layout that adapts to screen sizes
 
-🖼️ Live Preview
-You can deploy this on GitHub Pages or Netlify.
-Add your live link here when ready:
+---
 
-arduino
-Copy
-Edit
-https://your-username.github.io/art-explorer/
-📁 Project Structure
-less
-Copy
-Edit
+##  Live Preview
+
+Deploy your project on [GitHub Pages](https://pages.github.com/) or [Netlify](https://www.netlify.com/). Once live, update the link below:
+
+🌐 [View Live Demo](https://your-username.github.io/art-explorer/)
+
+---
+
+##  Project Structure
+
 art-explorer/
-├── index.html       → Main HTML file
-├── styles.css       → External stylesheet
-├── app.js           → JavaScript logic
-└── assets/          → (Optional: store images or icons)
-🔧 How to Use
-Clone the Repository
+- index.html # Main HTML file
+- styles.css # External stylesheet
+  -app.js # JavaScript logic
+  -assets/ # Optional: store images or icons here
 
-bash
-Copy
-Edit
-git clone https://github.com/your-username/art-explorer.git
+---
+
+##  How to Use
+
+1. **Clone the Repository**
+
+   ```bash
+   git clone https://github.com/your-username/art-explorer.git
 Open the Project
 
-Open the index.html file in your browser.
+Open index.html in your browser directly, or use Live Server in VS Code for live preview.
 
-Or use VS Code with the Live Server extension.
+Start Exploring
 
-Start Searching
+Use the search bar to look for artworks by title, artist, or keyword (e.g., “modern”, “Rembrandt”, “sculpture”). Results will be fetched and displayed automatically.
 
-Type in the search bar (e.g. “modern”, “Rembrandt”, “sculpture”)
+ ##  Technologies Used
+- HTML5
 
-The page will fetch and display related artworks.
+-CSS3 (external stylesheet)
 
-💻 Technologies Used
-HTML5
+- JavaScript (vanilla, beginner-friendly)
 
-CSS3 (External stylesheet)
+-Art Institute of Chicago API
 
-JavaScript (vanilla, beginner-friendly)
 
-Art Institute of Chicago API
 
-📸 Sample Screenshot
-Add a screenshot after your UI is ready:
-
-Copy
-Edit
-📷 Screenshot preview goes here
-🧠 Future Ideas
-Add pagination (load more)
-
-Add detail view for each artwork
-
-Allow users to favorite artworks (using local storage)
-
-Display museum location or era info
-
-👨‍💻 Author
+ ## Author
 Feisal Abdi Hassan
 Student Full Stack Developer – Moringa School
 Inspired by art, creativity, and coding.
+
+Portfolio or LinkedIn (optional)
+
+ ## License
+This project is open source and available under the MIT License.
+
